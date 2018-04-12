@@ -6,7 +6,7 @@ permalink:  is_oo_tictactoe_really_a_metaphor_for_life
 ---
 
 
-One of the emphasis points at the beginning of both of Avi's* Intro. to Object Orientation* videos is that in OO Ruby we're dealing with symbols, and each of those symbols acts as a metaphor for an actual desired outcome. There is nothing tangible about the symbols we're creating, but the output of those conjoined symbols creates a useful tool.
+One of the emphasis points at the beginning of both of Avi's *Intro. to Object Orientation* videos is that in OO Ruby we're dealing with symbols, and each of those symbols acts as a metaphor for an actual desired outcome. There is nothing tangible about the symbols we're creating, but the output of those conjoined symbols creates a useful tool.
 
 In a similar way, the process of creating *OO TicTacToe* can be considered a metaphor for each of our lives. As with any endeavor, we begin the journey with a little knowledge, some desire to learn, and a lot of trepidation. 
 
