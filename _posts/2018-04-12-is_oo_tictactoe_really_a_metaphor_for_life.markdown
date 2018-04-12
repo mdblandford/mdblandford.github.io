@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Is *OO TicTacToe* really a metaphor for life?"."
-date:       2018-04-12 14:11:03 +0000
+title:      "Is OO TicTacToe really a metaphor for life?"."
+date:       2018-04-12 10:11:04 -0400
 permalink:  is_oo_tictactoe_really_a_metaphor_for_life
 ---
 
