@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "What the hell am I doing here!?!?**"
+title:      "What the hell am I doing here!?!?"
 date:       2018-04-02 12:27:58 -0400
 permalink:  what_the_hell_am_i_doing_here
 ---
